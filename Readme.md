@@ -75,3 +75,4 @@ Los Angeles, CA
 * [GitHub](https://github.com/tkersey) since February 2008 (User #217)
 * [Foursquare](https://foursquare.com/timkersey) since March 2009 (User #1832)
 * [Instagram](http://instagram.com/entangledstate) since October 2010 (User #3773)
+* https://insights.dice.com/2021/03/29/5-ios-frameworks-experts-suggest-which-ones-to-master/
