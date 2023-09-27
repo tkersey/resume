@@ -4,9 +4,16 @@ Los Angeles, CA
 [github.com/tkersey](https://github.com/tkersey)  
 [twitter.com/timkersey](https://twitter.com/timkersey)  
 
-#### [Carbon Five](https://www.carbonfive.com) — February 2018 to present (Senior Software Developer)
+#### [Artium](https://www.thisisartium.com) — January 2022 to present (Director of Engineering)
+#### [Artium](https://www.thisisartium.com) — June 2021 to January 2022 (Principal Software Developer)
+>On the ground leader of consultants and engagements guiding clients and their code to the marketplace with efficiency and quality
+
+* 
+#### [Carbon Five](https://www.carbonfive.com) — February 2018 to June 2021 (Senior Software Developer)
 >Working as both individual contributor and technical lead as needed when consulting on client projects.
 
+* API to onboard and manage devices for energy demand events for energy tech startup
+    * Java, Spring
 * iOS app for a large, midwestern bank
     * Led team through implementing advanced Swift/iOS concepts to prepare the codebase for growth  
     **Technologies used: Swift, RxSwift, Swagger**
@@ -59,11 +66,7 @@ Los Angeles, CA
 #### [Gray's College Enterprises](https://graysbooks.com) — November 1998 to October 2013 (Director/Developer)
 >Gray's owned and operated eight off-campus retail stores catering to the college market and ran a wholesale division that distributed textbooks for retail and direct to customers
 
-* Designed and built from scratch an iOS app customized for the purchase of textbooks directly from students while at a remote location
-* Designed and built a tool to search Amazon for arbitrage opportunities on textbooks
-* Developed tools to automatically acquire critical business information about required textbooks for classes from campus websites
-* Designed and led development of a custom textbook inventory management system  
-**Technologies used: Objective-C, Ruby, Tokyo Cabinet, MessagePack**
+* Led development of an iOS to purchase textbooks dirctly from students, a tool to perform arbitrage of textbooks between Amazon and wholesale market, a tool to acquired critical campus textbook and classes information and a custom textbook inventory management system
 
 ##### Open source contributions
 * Homebrew
