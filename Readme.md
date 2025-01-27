@@ -16,7 +16,7 @@
   * Led team to recognize the opportunity to build using SwiftUI/Combine and implemented using pre-release version of [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
 * Launched telehealth and chatbot services in the US for UK based company ([Babylon Health](https://www.babylonhealth.com/en-us))
   * Co-led team of 12+ to customize existing microservices for US Market (HIPAA compliance, EHR integration, Localization)
-    * Led US-based team adapting iOS app to US Market working within a team of 40+ developers
+  * Led US-based team adapting iOS app to US Market working within a team of 40+ developers
 * iOS app for socially responsible investing ([Swell](https://www.swellinvesting.com))
   * Written declaratively using many ideas from functional programming
 #### [Skurt](https://skurt.com) — May 2017 to January 2018 (Senior Software Engineer)
