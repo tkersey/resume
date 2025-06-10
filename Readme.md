@@ -23,16 +23,16 @@ Swift, SwiftUI, Structured Concurrency, Functional Programming, Team Leadership,
   * Architected performance optimizations for functional programming architectures while maintaining code maintainability
 #### [Carbon Five](https://www.carbonfive.com) — February 2018 to June 2021 (Senior Software Developer)
 >Working as both individual contributor and technical lead as needed when consulting on client projects.
-* iOS app for a large, midwestern bank ([FNBO](https://www.fnbo.com))
-  * Led adoption of protocol-oriented programming and reactive patterns to scale codebase for growth
-* iOS and Android apps for remote group therapy ([Sesh](https://www.linkedin.com/company/seshgroups/about/))
-  * Delivered HIPAA-compliant solution using SaaS integrations within 8-week deadline
-* iOS and Android app for Mexican small business credit card ([Covalto](https://covalto.com))
-  * Led team to recognize the opportunity to build using SwiftUI/Combine and implemented using pre-release version of [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
-* Launched telehealth and chatbot services in the US for UK based company ([Babylon Health](https://www.babylonhealth.com/en-us))
+* [FNBO](https://www.fnbo.com)
+  * Led adoption of protocol-oriented programming and reactive patterns to scale iOS banking app for growth
+* [Sesh](https://www.linkedin.com/company/seshgroups/about/)
+  * Delivered HIPAA-compliant iOS and Android apps for remote group therapy using SaaS integrations within 8-week deadline
+* [Covalto](https://covalto.com)
+  * Led team to recognize the opportunity to build iOS and Android apps using SwiftUI/Combine and implemented using pre-release version of The Composable Architecture
+* [Babylon Health](https://www.babylonhealth.com/en-us)
   * Co-led team of 12+ engineers to launch US market entry with HIPAA compliance, EHR integration, and localization across microservices and iOS platforms
-* iOS app for socially responsible investing ([Swell](https://www.swellinvesting.com))
-  * Implemented declarative UI patterns using functional reactive programming with RxSwift
+* [Swell](https://www.swellinvesting.com)
+  * Implemented declarative UI patterns using functional reactive programming with RxSwift for socially responsible investing iOS app
 #### [Skurt](https://skurt.com) — May 2017 to January 2018 (Senior Software Engineer)
 >iOS development lead building an app to deliver rental cars to customers
 * Led transition to TDD with incremental feature delivery, achieving full test coverage on new features
