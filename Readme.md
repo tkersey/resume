@@ -6,6 +6,9 @@
 Swift, SwiftUI, Structured Concurrency, Functional Programming, Team Leadership, iOS/tvOS/visionOS Development
 #### [Artium](https://artium.ai) —  June 2021 to present (Director of Engineering/Principal Software Engineer)
 > Leader of consultants and engagements guiding clients and their products to the marketplace with efficiency and quality
+* [Trust & Will](https://trustandwill.com)
+  * Architected AI assistant system with retrieval-augmented generation for estate planning workflow automation
+  * Led engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints
 * [Red Bull Batalla](https://www.redbullbatalla.com)
   * Built prompt optimization framework for AI-powered rap lyric generation with measurable quality improvements
 * [Red Bull TV](https://www.redbull.com/us-en/discover)
