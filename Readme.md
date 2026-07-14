@@ -28,8 +28,11 @@ Lead consultants and client engagements from discovery and architecture through 
 - **Trust & Will:** Architected a retrieval-augmented assistant system for estate-planning workflow automation and led rapid prototyping and deployment of agentic assistants under tight delivery constraints.
 - **Red Bull Batalla:** Built a prompt-optimization framework for AI-generated rap lyrics, producing measurable quality improvements.
 - **Red Bull TV:** Led the engineering team delivering an Apple Vision Pro launch application and architected a modular streaming platform that enabled rapid deployment of multiple product variants. Established strict concurrency and type-safety patterns and mentored client engineers.
-- **MoveHQ:** Led modernization of a legacy product architecture within a multi-year enterprise transformation, managing technical product requirements across the mobile product and broader system dependencies.
-- **Grailed:** Led cross-functional product discovery for a premium marketplace, established rapid customer feedback loops, and optimized a functional architecture without sacrificing maintainability.
+
+#### Additional systems and product leadership
+
+- Led modernization of a legacy product architecture within a multi-year enterprise transformation, coordinating technical requirements and dependencies across product and backend systems.
+- Led cross-functional product discovery for a premium marketplace, established rapid customer feedback loops, and optimized a functional architecture without sacrificing maintainability.
 
 ### [Carbon Five](https://www.carbonfive.com) — Senior Software Developer
 **February 2018–June 2021**
@@ -39,10 +42,13 @@ Served as both hands-on senior engineer and technical lead across healthcare, fi
 #### Selected client engagements
 
 - **FNBO:** Led adoption of protocol-oriented and reactive architecture patterns to scale a digital banking product for growth.
-- **Sesh:** Delivered HIPAA-compliant remote group-therapy applications across iOS and Android within an eight-week deadline using SaaS integrations.
-- **Covalto:** Led architecture selection and implementation for new fintech applications using early SwiftUI, Combine, and The Composable Architecture, balancing delivery speed, platform maturity, and maintainability.
 - **Babylon Health:** Co-led a team of 12+ engineers through the US launch of a healthcare platform spanning HIPAA compliance, EHR integration, localization, microservices, and client applications.
-- **Swell:** Implemented a declarative, reactive architecture for a socially responsible investing product.
+
+#### Additional systems and delivery work
+
+- Delivered a HIPAA-compliant remote group-therapy product across multiple client platforms within an eight-week deadline using SaaS integrations.
+- Led architecture selection and implementation for an early-stage fintech product, balancing delivery speed, platform maturity, and long-term maintainability.
+- Implemented a declarative, reactive architecture for a socially responsible investing product.
 
 ### [Skurt](https://skurt.com) — Senior Software Engineer
 **May 2017–January 2018**
@@ -58,12 +64,15 @@ Technical lead for an on-demand rental-car delivery product.
 
 Partnered with client designers, product managers, engineers, and stakeholders to deliver production systems while coaching teams in Lean and Extreme Programming practices.
 
-#### Selected client engagements
+#### Selected client engagement
 
 - **ABC:** Delivered a broadcast-to-streaming pipeline management system using React, Java, and Spring.
-- **FreshRealm:** Redesigned a meal-subscription workflow, reducing checkout abandonment by 40%.
-- **Fair:** Launched an automated vehicle-financing product with real-time loan approvals.
-- **AAA SoCal:** Modernized the customer-facing roadside-assistance and membership product.
+
+#### Additional product and systems work
+
+- Redesigned a commerce subscription workflow, reducing checkout abandonment by 40%.
+- Launched an automated vehicle-financing product with real-time loan approvals.
+- Modernized a customer-facing roadside-assistance and membership product.
 - Built a streaming application with machine-learning recommendations for video discovery.
 
 ### [ThinkALike](https://appsto.re/us/8pTN8.i) — Senior Software Engineer
