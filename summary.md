@@ -12,15 +12,20 @@
 
 Tim is a principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. He guides clients and engineering teams from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. His recent work includes leading a large engineering team building an agent-authoring platform for eBay customer and internal service workflows, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content.
 
-Tim combines hands-on engineering with systems thinking and team leadership. He is particularly effective at identifying the underlying structure in complex product and technical environments, defining clear integration boundaries, and turning successful delivery patterns into reusable architectures and stronger engineering practices. His experience spans marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
+Since March 2025, Tim has practiced agent-first software development—first with Claude Code and now with Codex—using coding agents for nearly all day-to-day implementation while retaining ownership of architecture, validation, review, and production quality. He codifies this practice through an extensive public library of Codex skills, agent definitions, repository instructions, workflow configuration, and supporting Zig tooling.
+
+Tim combines this hands-on practice with systems thinking and team leadership. He is particularly effective at identifying the underlying structure in complex product and technical environments, defining clear integration boundaries, and turning successful delivery patterns into reusable architectures and stronger engineering practices.
 
 #### Relevant Skills
 
-Agentic Systems Architecture • Agent Authoring Platforms • Managed Agent Runtimes • Offline and Online Evaluation • LLM Application Development • Retrieval-Augmented Generation • Prompt Optimization • Workflow Automation • Systems Design • Software Architecture • Functional Programming • Structured Concurrency • Technical Strategy • Team Leadership • Client Discovery • Product Discovery • Mentoring • Python • JavaScript/TypeScript • Node.js • Java • React • Spring • Docker • Swift/SwiftUI
+Agent-First Software Development • Claude Code • Codex • Coding-Agent Orchestration • Skill Authoring • Agent Workflow Design • Agentic Systems Architecture • Agent Authoring Platforms • Managed Agent Runtimes • Offline and Online Evaluation • LLM Application Development • Retrieval-Augmented Generation • Prompt Optimization • Workflow Automation • Systems Design • Software Architecture • Functional Programming • Structured Concurrency • Technical Strategy • Team Leadership • Client Discovery • Product Discovery • Mentoring • Python • JavaScript/TypeScript • Node.js • Java • React • Spring • Docker • Swift/SwiftUI
 
 ---
 
 #### Selected Agentic Engineering Experience
+
+**Agent-First Software Development — March 2025–Present**  
+Uses Claude Code and Codex as the primary development environment for nearly all implementation work across planning, coding, refactoring, testing, review, and validation. Authors reusable Codex skills, agent definitions, repository instructions, workflows, and supporting tooling to make the practice repeatable and inspectable.
 
 **eBay — Agent Authoring Platform**  
 Led a large engineering team building a reusable platform for authoring agents across customer-facing and internal service workflows. The platform is designed for phased expansion from initial high-priority intents to a broad portfolio of use cases. Authored agents execute within a managed agentic harness runtime and are evaluated offline and online through a dedicated evaluation service.
@@ -46,3 +51,9 @@ Delivered a broadcast-to-streaming pipeline management system using React, Java,
 
 **Marketplace Product Discovery**  
 Led a cross-functional team through iterative product discovery, established rapid customer feedback loops, and optimized a functional architecture without sacrificing maintainability.
+
+#### Selected Open Source
+
+- [`boundary`](https://github.com/tkersey/boundary) — Zig library for explicit local effect programs.
+- [Codex skills, agents, and workflow configuration](https://github.com/tkersey/dotfiles/tree/main/codex) — Extensive public library supporting an agent-first engineering practice.
+- [`skills-zig`](https://github.com/tkersey/skills-zig) — Zig CLI monorepo for session and memory mining, performance analysis, review workflows, durable ledgers, and automation.
