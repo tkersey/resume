@@ -4,33 +4,44 @@
 
 ---
 
-**Principal Engineer**
+**Principal Agentic Systems Engineer / Engineering Leader**
 
 **LinkedIn Profile:** https://www.linkedin.com/in/timkersey
 
 #### Summary
 
-Tim is a full-stack engineer specializing in agentic systems design with deep expertise in functional programming, modern concurrent architectures, and iOS/Swift development. He excels at guiding teams through complex technical transformations while maintaining focus on product delivery and quality. Tim is passionate about leveraging type systems and structured concurrency to build maintainable, performant applications, and has extensive experience leading engineering teams through challenging technical migrations and product launches across diverse industries from estate planning to streaming media and financial services.
+Tim is a principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. He guides clients and engineering teams from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. His recent work includes agentic engineering for eBay, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content.
+
+Tim combines hands-on engineering with systems thinking and team leadership. He is particularly effective at identifying the underlying structure in complex product and technical environments, defining clear integration boundaries, and turning successful delivery patterns into reusable architectures and stronger engineering practices. His experience spans marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
 
 #### Relevant Skills
 
-Agentic Architecture • Systems Design • Structured Concurrency • Functional Programming • Team Leadership • Software Architecture • Docker • Node.js • Java • React • Python • Reactive Programming • Reactive Systems • Swift/SwiftUI • Apple Development
+Agentic Systems Architecture • LLM Application Development • Retrieval-Augmented Generation • Coding-Agent Workflows • Prompt Optimization • Evaluation Frameworks • Sandboxed Execution • Workflow Automation • Systems Design • Software Architecture • Functional Programming • Structured Concurrency • Technical Strategy • Team Leadership • Client Discovery • Product Discovery • Mentoring • Python • JavaScript/TypeScript • Node.js • Java • React • Spring • Docker • Swift/SwiftUI
 
 ---
 
-#### (Select) Project Experience
+#### Selected Client Experience
 
-**Estate Planning Technology Platform**
-Architected an AI assistant system with retrieval-augmented generation for estate planning workflow automation. Led engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
+**eBay — Agentic Engineering**  
+Delivered agentic engineering for a large-scale marketplace, spanning coding-agent workflows, evaluation frameworks, sandboxed execution, and production deployment.
 
-**AI-Powered Content Generation Platform**
-Built prompt optimization framework for AI-powered rap lyric generation with measurable quality improvements, demonstrating expertise in integrating machine learning capabilities with mobile applications.
+**Trust & Will — Estate-Planning Workflow Automation**  
+Architected a retrieval-augmented assistant system for estate-planning workflows and led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
 
-**Streaming Media and Entertainment Platform**
-Led engineering team to deliver Apple Vision Pro launch app with pre-release hardware access. Architected modular streaming platform enabling rapid deployment of multiple product variants and established patterns for strict concurrency and type safety across entire Swift codebase. Mentored organization on advanced Swift and SwiftUI techniques for production applications.
+**Red Bull Batalla — AI-Powered Content Generation**  
+Built a prompt-optimization framework for AI-generated rap lyrics, producing measurable quality improvements.
 
-**Enterprise Mobile Transformation**
-Led iOS engineering team in modernizing legacy Objective-C codebase to SwiftUI with full adoption of Structured Concurrency. Managed technical product requirements where mobile app integration required deep understanding of broader system architecture, delivering critical mobile component within multi-year enterprise transformation initiative.
+**Red Bull TV — Streaming Platform Architecture**  
+Led the engineering team delivering an Apple Vision Pro launch application and architected a modular streaming platform that enabled rapid deployment of multiple product variants. Established concurrency and type-safety patterns and mentored the client engineering organization.
 
-**Premium Fashion Marketplace**
-Led cross-functional team through iterative product discovery for iOS marketplace app focused on premium men's fashion. Established rapid feedback loops with customers to validate feature requirements and refine product direction while architecting performance optimizations for functional programming architectures.
+**Grailed — Marketplace Product Discovery**  
+Led a cross-functional team through iterative product discovery, established rapid customer feedback loops, and optimized a functional architecture without sacrificing maintainability.
+
+**Babylon Health — Regulated Healthcare Platform**  
+Co-led a team of 12+ engineers through the US launch of a healthcare platform spanning HIPAA compliance, EHR integration, localization, microservices, and client applications.
+
+**ABC — Broadcast Systems**  
+Delivered a broadcast-to-streaming pipeline management system using React, Java, and Spring.
+
+**FreshRealm — Commerce Workflow Optimization**  
+Redesigned a meal-subscription workflow, reducing checkout abandonment by 40%.
