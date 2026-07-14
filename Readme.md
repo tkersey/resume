@@ -27,7 +27,7 @@ Lead consultants and client engagements from discovery and architecture through 
 - **eBay:**
   - Led a team building an agent-authoring platform for creating agents that address custom service intents for eBay customers and back-office teammates.
   - The platform executes authored agents within a managed agentic harness runtime.
-  - Integrated a dedicated evaluation service supporting both offline and online evaluation of authored agents.
+  - Supported offline and online evaluation of authored agents through a dedicated evaluation service.
 - **Trust & Will:**
   - Architected a retrieval-augmented assistant system for estate-planning workflow automation.
   - Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
