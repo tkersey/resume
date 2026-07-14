@@ -23,7 +23,7 @@ Agentic Systems Architecture • LLM Application Development • Retrieval-Augme
 #### Selected Client Experience
 
 **eBay — Agentic Engineering**  
-Delivered agentic engineering for a large-scale marketplace, spanning coding-agent workflows, evaluation frameworks, sandboxed execution, and production deployment.
+Delivered agentic systems consulting in a large-scale marketplace environment, translating client needs into production-oriented AI workflows and reusable engineering patterns.
 
 **Trust & Will — Estate-Planning Workflow Automation**  
 Architected a retrieval-augmented assistant system for estate-planning workflows and led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
