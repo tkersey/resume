@@ -34,14 +34,16 @@ Built a prompt-optimization framework for AI-generated rap lyrics, producing mea
 **Red Bull TV — Streaming Platform Architecture**  
 Led the engineering team delivering an Apple Vision Pro launch application and architected a modular streaming platform that enabled rapid deployment of multiple product variants. Established concurrency and type-safety patterns and mentored the client engineering organization.
 
-**Grailed — Marketplace Product Discovery**  
-Led a cross-functional team through iterative product discovery, established rapid customer feedback loops, and optimized a functional architecture without sacrificing maintainability.
-
 **Babylon Health — Regulated Healthcare Platform**  
 Co-led a team of 12+ engineers through the US launch of a healthcare platform spanning HIPAA compliance, EHR integration, localization, microservices, and client applications.
 
 **ABC — Broadcast Systems**  
 Delivered a broadcast-to-streaming pipeline management system using React, Java, and Spring.
 
-**FreshRealm — Commerce Workflow Optimization**  
-Redesigned a meal-subscription workflow, reducing checkout abandonment by 40%.
+#### Additional Systems Experience
+
+**Marketplace Product Discovery**  
+Led a cross-functional team through iterative product discovery, established rapid customer feedback loops, and optimized a functional architecture without sacrificing maintainability.
+
+**Commerce Workflow Optimization**  
+Redesigned a subscription-commerce workflow, reducing checkout abandonment by 40%.
