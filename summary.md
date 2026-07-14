@@ -23,7 +23,7 @@ Agentic Systems Architecture • LLM Application Development • Retrieval-Augme
 #### Selected Agentic Engineering Experience
 
 **eBay — Agentic Engineering**  
-Delivering agentic engineering for a large-scale marketplace. This engagement is Tim's strongest current example of production agentic systems work and should be expanded with verified scope, architecture, leadership, and outcome details.
+Delivering agentic engineering for a large-scale marketplace.
 
 **Trust & Will — Retrieval-Augmented Workflow Automation**  
 Architected a retrieval-augmented assistant system for estate-planning workflow automation. Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
