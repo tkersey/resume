@@ -10,7 +10,7 @@
 
 #### Summary
 
-Tim is a principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. He guides clients and engineering teams from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. His recent work includes leading development of an agent-authoring platform for eBay service workflows, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content.
+Tim is a principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. He guides clients and engineering teams from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. His recent work includes leading a large engineering team building an agent-authoring platform for eBay customer and internal service workflows, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content.
 
 Tim combines hands-on engineering with systems thinking and team leadership. He is particularly effective at identifying the underlying structure in complex product and technical environments, defining clear integration boundaries, and turning successful delivery patterns into reusable architectures and stronger engineering practices. His experience spans marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
 
@@ -23,7 +23,7 @@ Agentic Systems Architecture • Agent Authoring Platforms • Managed Agent Run
 #### Selected Agentic Engineering Experience
 
 **eBay — Agent Authoring Platform**  
-Led a team building a platform for creating agents that address custom service intents for eBay customers and internal teammates. The agents run within a managed agentic harness runtime and are assessed offline and online through a dedicated evaluation service.
+Led a large engineering team building a reusable platform for authoring agents across customer-facing and internal service workflows. The platform is designed for phased expansion from initial high-priority intents to a broad portfolio of use cases. Authored agents execute within a managed agentic harness runtime and are evaluated offline and online through a dedicated evaluation service.
 
 **Trust & Will — Retrieval-Augmented Workflow Automation**  
 Architected a retrieval-augmented assistant system for estate-planning workflow automation. Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
