@@ -16,20 +16,22 @@ Tim combines hands-on engineering with systems thinking and team leadership. He 
 
 #### Relevant Skills
 
-Agentic Systems Architecture • LLM Application Development • Retrieval-Augmented Generation • Coding-Agent Workflows • Prompt Optimization • Evaluation Frameworks • Sandboxed Execution • Workflow Automation • Systems Design • Software Architecture • Functional Programming • Structured Concurrency • Technical Strategy • Team Leadership • Client Discovery • Product Discovery • Mentoring • Python • JavaScript/TypeScript • Node.js • Java • React • Spring • Docker • Swift/SwiftUI
+Agentic Systems Architecture • LLM Application Development • Retrieval-Augmented Generation • Prompt Optimization • AI Evaluation and Quality Improvement • Workflow Automation • Systems Design • Software Architecture • Functional Programming • Structured Concurrency • Technical Strategy • Team Leadership • Client Discovery • Product Discovery • Mentoring • Python • JavaScript/TypeScript • Node.js • Java • React • Spring • Docker • Swift/SwiftUI
 
 ---
 
-#### Selected Client Experience
+#### Selected Agentic Engineering Experience
 
 **eBay — Agentic Engineering**  
-Delivered agentic systems consulting in a large-scale marketplace environment, translating client needs into production-oriented AI workflows and reusable engineering patterns.
+Delivering agentic engineering for a large-scale marketplace. This engagement is Tim's strongest current example of production agentic systems work and should be expanded with verified scope, architecture, leadership, and outcome details.
 
-**Trust & Will — Estate-Planning Workflow Automation**  
-Architected a retrieval-augmented assistant system for estate-planning workflows and led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
+**Trust & Will — Retrieval-Augmented Workflow Automation**  
+Architected a retrieval-augmented assistant system for estate-planning workflow automation. Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
 
-**Red Bull Batalla — AI-Powered Content Generation**  
-Built a prompt-optimization framework for AI-generated rap lyrics, producing measurable quality improvements.
+**Red Bull Batalla — Generative AI Quality Optimization**  
+Built a prompt-optimization framework for AI-powered rap lyric generation. Used measured output quality to iteratively improve prompts and generated results.
+
+#### Selected Systems and Leadership Experience
 
 **Red Bull TV — Streaming Platform Architecture**  
 Led the engineering team delivering an Apple Vision Pro launch application and architected a modular streaming platform that enabled rapid deployment of multiple product variants. Established concurrency and type-safety patterns and mentored the client engineering organization.
