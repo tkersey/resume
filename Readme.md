@@ -24,7 +24,7 @@ Lead consultants and client engagements from discovery and architecture through 
 
 #### Selected client engagements
 
-- **eBay:** Delivered agentic engineering for a large-scale marketplace, spanning coding-agent workflows, evaluation frameworks, sandboxed execution, and production deployment.
+- **eBay:** Delivered agentic systems consulting in a large-scale marketplace environment, translating client needs into production-oriented AI workflows and reusable engineering patterns.
 - **Trust & Will:** Architected a retrieval-augmented assistant system for estate-planning workflow automation and led rapid prototyping and deployment of agentic assistants under tight delivery constraints.
 - **Red Bull Batalla:** Built a prompt-optimization framework for AI-generated rap lyrics, producing measurable quality improvements.
 - **Red Bull TV:** Led the engineering team delivering an Apple Vision Pro launch application and architected a modular streaming platform that enabled rapid deployment of multiple product variants. Established strict concurrency and type-safety patterns and mentored client engineers.
