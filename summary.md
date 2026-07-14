@@ -44,6 +44,3 @@ Delivered a broadcast-to-streaming pipeline management system using React, Java,
 
 **Marketplace Product Discovery**  
 Led a cross-functional team through iterative product discovery, established rapid customer feedback loops, and optimized a functional architecture without sacrificing maintainability.
-
-**Commerce Workflow Optimization**  
-Redesigned a subscription-commerce workflow, reducing checkout abandonment by 40%.
