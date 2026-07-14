@@ -6,15 +6,15 @@
 
 ## Profile
 
-Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes leading a large engineering team building an agent-authoring platform for eBay customer and internal service workflows, supported by a managed agent runtime and offline and online evaluation. Since March 2025, has practiced agent-first software development—first with Claude Code and now with Codex—using coding agents for nearly all day-to-day implementation while retaining ownership of architecture, validation, review, and production quality. Codifies this practice through an extensive public library of Codex skills, agents, repository instructions, and supporting Zig tooling. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
+Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes leading a large engineering team building an agent-authoring platform for eBay customer and internal service workflows, supported by a managed agent runtime and offline and online evaluation. Since March 2025, has practiced agent-first software development—first with Claude Code and now with Codex—using coding agents for nearly all day-to-day implementation while retaining ownership of architecture, validation, review, and production quality. Codifies this practice through an extensive public library of Codex skills, agent definitions, repository instructions, and workflow configuration, with many skills backed by purpose-built Zig-based CLIs. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
 
 ## Core Expertise
 
-- **Agent-first development:** Coding-agent orchestration with Claude Code and Codex; extensive skill authoring; reusable agent instructions and workflows spanning planning, implementation, refactoring, testing, review, validation, and engineering feedback loops
+- **Agent-first development:** Coding-agent orchestration with Claude Code and Codex; extensive Codex skill authoring, often backed by purpose-built Zig-based CLIs; reusable agent instructions and workflows spanning planning, implementation, refactoring, testing, review, validation, and engineering feedback loops
 - **Agentic engineering:** Agent-authoring platforms, managed agent runtimes, offline and online evaluation, LLM application architecture, retrieval-augmented generation, prompt optimization, and workflow automation
 - **Systems thinking:** System design, software architecture, integration boundaries, functional programming, structured concurrency, type-driven design, and performance optimization
 - **Leadership and delivery:** Technical strategy, client discovery, product discovery, team leadership, mentoring, cross-functional collaboration, and prototype-to-production delivery
-- **Technologies:** Python, JavaScript/TypeScript, Node.js, Java, React, Spring, Docker, Swift, SwiftUI, Combine, and RxSwift
+- **Technologies:** Python, JavaScript/TypeScript, Node.js, Java, React, Spring, Docker, Zig, Swift, SwiftUI, Combine, and RxSwift
 
 ## Experience
 
@@ -108,6 +108,6 @@ Designed systems supporting eight off-campus retail stores and a wholesale textb
 ## Selected Open Source
 
 - [`boundary`](https://github.com/tkersey/boundary) — A Zig library for explicit local effect programs.
-- [Codex skills, agents, and workflow configuration](https://github.com/tkersey/dotfiles/tree/main/codex) — An extensive public library of reusable Codex skills, agent definitions, repository instructions, and workflow configuration for an agent-first engineering practice.
-- [`skills-zig`](https://github.com/tkersey/skills-zig) — A Zig CLI monorepo for session and memory mining, performance analysis, review workflows, durable ledgers, and automation.
+- [Codex skills, agents, and workflow configuration](https://github.com/tkersey/dotfiles/tree/main/codex) — An extensive public library of reusable Codex skills—many backed by purpose-built Zig-based CLIs—plus agent definitions, repository instructions, and workflow configuration for an agent-first engineering practice.
+- [`skills-zig`](https://github.com/tkersey/skills-zig) — A Zig CLI monorepo supplying tooling used by Codex skills for session and memory mining, performance analysis, review workflows, durable ledgers, and automation.
 - Contributions to [ReSwift](https://github.com/ReSwift/ReSwift/commits?author=tkersey), [Homebrew](https://github.com/Homebrew/homebrew-core/commits?author=tkersey), and the [`isbn` RubyGem](https://rubygems.org/gems/isbn/versions/1.4.1).
