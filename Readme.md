@@ -6,11 +6,11 @@
 
 ## Profile
 
-Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes agentic engineering for eBay, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
+Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes leading development of an agent-authoring platform for eBay customer-service and teammate workflows, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
 
 ## Core Expertise
 
-- **Agentic engineering:** LLM application architecture, retrieval-augmented generation, prompt optimization, AI evaluation and quality improvement, and workflow automation
+- **Agentic engineering:** Agent-authoring platforms, managed agent runtimes, offline and online evaluation, LLM application architecture, retrieval-augmented generation, prompt optimization, and workflow automation
 - **Systems thinking:** System design, software architecture, integration boundaries, functional programming, structured concurrency, type-driven design, and performance optimization
 - **Leadership and delivery:** Technical strategy, client discovery, product discovery, team leadership, mentoring, cross-functional collaboration, and prototype-to-production delivery
 - **Technologies:** Python, JavaScript/TypeScript, Node.js, Java, React, Spring, Docker, Swift, SwiftUI, Combine, and RxSwift
@@ -24,7 +24,10 @@ Lead consultants and client engagements from discovery and architecture through 
 
 #### Agentic engineering engagements
 
-- **eBay:** Delivering agentic engineering for a large-scale marketplace.
+- **eBay:**
+  - Led a team building an agent-authoring platform for creating agents that address custom service intents for eBay customers and back-office teammates.
+  - Enabled authored agents to run within a managed agentic harness runtime, providing a standardized execution model across service use cases.
+  - Integrated a dedicated evaluation service supporting both offline and online assessment of authored agents.
 - **Trust & Will:**
   - Architected a retrieval-augmented assistant system for estate-planning workflow automation.
   - Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
