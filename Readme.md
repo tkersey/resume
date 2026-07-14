@@ -6,7 +6,7 @@
 
 ## Profile
 
-Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes leading development of an agent-authoring platform for eBay customer-service and teammate workflows, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
+Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes leading a large engineering team building an agent-authoring platform for eBay customer and internal service workflows, supported by a managed agent runtime and offline and online evaluation. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
 
 ## Core Expertise
 
@@ -25,9 +25,9 @@ Lead consultants and client engagements from discovery and architecture through 
 #### Agentic engineering engagements
 
 - **eBay:**
-  - Led a team building an agent-authoring platform for creating agents that address custom service intents for eBay customers and back-office teammates.
-  - The platform executes authored agents within a managed agentic harness runtime.
-  - Supported offline and online evaluation of authored agents through a dedicated evaluation service.
+  - Led a large engineering team building a reusable agent-authoring platform for customer-facing and internal service workflows.
+  - Designed the platform for phased expansion from an initial set of high-priority service intents to a broad portfolio of use cases.
+  - Authored agents execute within a managed agentic harness runtime and are evaluated offline and online through a dedicated evaluation service.
 - **Trust & Will:**
   - Architected a retrieval-augmented assistant system for estate-planning workflow automation.
   - Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
