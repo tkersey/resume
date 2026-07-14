@@ -10,20 +10,20 @@
 
 #### Summary
 
-Tim is a principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. He guides clients and engineering teams from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. His recent work includes agentic engineering for eBay, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content.
+Tim is a principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. He guides clients and engineering teams from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. His recent work includes leading development of an agent-authoring platform for eBay service workflows, retrieval-augmented assistants for estate-planning workflows, and prompt-optimization systems for generative content.
 
 Tim combines hands-on engineering with systems thinking and team leadership. He is particularly effective at identifying the underlying structure in complex product and technical environments, defining clear integration boundaries, and turning successful delivery patterns into reusable architectures and stronger engineering practices. His experience spans marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
 
 #### Relevant Skills
 
-Agentic Systems Architecture • LLM Application Development • Retrieval-Augmented Generation • Prompt Optimization • AI Evaluation and Quality Improvement • Workflow Automation • Systems Design • Software Architecture • Functional Programming • Structured Concurrency • Technical Strategy • Team Leadership • Client Discovery • Product Discovery • Mentoring • Python • JavaScript/TypeScript • Node.js • Java • React • Spring • Docker • Swift/SwiftUI
+Agentic Systems Architecture • Agent Authoring Platforms • Managed Agent Runtimes • Offline and Online Evaluation • LLM Application Development • Retrieval-Augmented Generation • Prompt Optimization • Workflow Automation • Systems Design • Software Architecture • Functional Programming • Structured Concurrency • Technical Strategy • Team Leadership • Client Discovery • Product Discovery • Mentoring • Python • JavaScript/TypeScript • Node.js • Java • React • Spring • Docker • Swift/SwiftUI
 
 ---
 
 #### Selected Agentic Engineering Experience
 
-**eBay — Agentic Engineering**  
-Delivering agentic engineering for a large-scale marketplace.
+**eBay — Agent Authoring Platform**  
+Led a team building a platform for creating agents that address custom service intents for eBay customers and internal teammates. The agents run within a managed agentic harness runtime and are assessed offline and online through a dedicated evaluation service.
 
 **Trust & Will — Retrieval-Augmented Workflow Automation**  
 Architected a retrieval-augmented assistant system for estate-planning workflow automation. Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
