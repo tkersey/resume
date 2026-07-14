@@ -70,8 +70,6 @@ Partnered with client designers, product managers, engineers, and stakeholders t
 
 #### Additional product and systems work
 
-- Redesigned a commerce subscription workflow, reducing checkout abandonment by 40%.
-- Launched an automated vehicle-financing product with real-time loan approvals.
 - Modernized a customer-facing roadside-assistance and membership product.
 - Built a streaming application with machine-learning recommendations for video discovery.
 
