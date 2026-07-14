@@ -22,11 +22,18 @@ Principal engineer and engineering leader specializing in production agentic sys
 
 Lead consultants and client engagements from discovery and architecture through production delivery. Operate as a principal engineer, technical leader, and client partner across applied AI, marketplaces, media, and enterprise transformation, while turning successful delivery patterns into reusable engineering practices.
 
-#### Selected client engagements
+#### Agentic engineering engagements
 
-- **eBay:** Delivered agentic systems consulting in a large-scale marketplace environment, translating client needs into production-oriented AI workflows and reusable engineering patterns.
-- **Trust & Will:** Architected a retrieval-augmented assistant system for estate-planning workflow automation and led rapid prototyping and deployment of agentic assistants under tight delivery constraints.
-- **Red Bull Batalla:** Built a prompt-optimization framework for AI-generated rap lyrics, producing measurable quality improvements.
+- **eBay:** Delivering agentic engineering for a large-scale marketplace.
+- **Trust & Will:**
+  - Architected a retrieval-augmented assistant system for estate-planning workflow automation.
+  - Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
+- **Red Bull Batalla:**
+  - Built a prompt-optimization framework for AI-powered rap lyric generation.
+  - Used measured output quality to iteratively improve prompts and generated results.
+
+#### Additional selected client work
+
 - **Red Bull TV:** Led the engineering team delivering an Apple Vision Pro launch application and architected a modular streaming platform that enabled rapid deployment of multiple product variants. Established strict concurrency and type-safety patterns and mentored client engineers.
 
 #### Additional systems and product leadership
