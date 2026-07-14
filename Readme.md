@@ -106,4 +106,6 @@ Designed systems supporting eight off-campus retail stores and a wholesale textb
 
 ## Selected Open Source
 
-Contributions to [ReSwift](https://github.com/ReSwift/ReSwift/commits?author=tkersey), [Homebrew](https://github.com/Homebrew/homebrew-core/commits?author=tkersey), and the [`isbn` RubyGem](https://rubygems.org/gems/isbn/versions/1.4.1).
+- [`boundary`](https://github.com/tkersey/boundary) — A Zig library for explicit local effect programs.
+- [Codex agents, skills, and configuration](https://github.com/tkersey/dotfiles/tree/main/codex) — Reusable agent definitions, engineering skills, and workflow configuration for Codex.
+- Contributions to [ReSwift](https://github.com/ReSwift/ReSwift/commits?author=tkersey), [Homebrew](https://github.com/Homebrew/homebrew-core/commits?author=tkersey), and the [`isbn` RubyGem](https://rubygems.org/gems/isbn/versions/1.4.1).
