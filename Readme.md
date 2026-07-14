@@ -6,10 +6,11 @@
 
 ## Profile
 
-Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes leading a large engineering team building an agent-authoring platform for eBay customer and internal service workflows, supported by a managed agent runtime and offline and online evaluation. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
+Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes leading a large engineering team building an agent-authoring platform for eBay customer and internal service workflows, supported by a managed agent runtime and offline and online evaluation. Since March 2025, has practiced agent-first software development—first with Claude Code and now with Codex—using coding agents for nearly all day-to-day implementation while retaining ownership of architecture, validation, review, and production quality. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
 
 ## Core Expertise
 
+- **Agent-first development:** Coding-agent orchestration with Claude Code and Codex; reusable agent instructions, skills, and workflows spanning planning, implementation, refactoring, testing, review, and validation
 - **Agentic engineering:** Agent-authoring platforms, managed agent runtimes, offline and online evaluation, LLM application architecture, retrieval-augmented generation, prompt optimization, and workflow automation
 - **Systems thinking:** System design, software architecture, integration boundaries, functional programming, structured concurrency, type-driven design, and performance optimization
 - **Leadership and delivery:** Technical strategy, client discovery, product discovery, team leadership, mentoring, cross-functional collaboration, and prototype-to-production delivery
@@ -107,5 +108,5 @@ Designed systems supporting eight off-campus retail stores and a wholesale textb
 ## Selected Open Source
 
 - [`boundary`](https://github.com/tkersey/boundary) — A Zig library for explicit local effect programs.
-- [Codex agents, skills, and configuration](https://github.com/tkersey/dotfiles/tree/main/codex) — Reusable agent definitions, engineering skills, and workflow configuration for Codex.
+- [Codex agents, skills, and configuration](https://github.com/tkersey/dotfiles/tree/main/codex) — Public tooling for an agent-first engineering practice, including reusable agent definitions, engineering skills, and workflow configuration.
 - Contributions to [ReSwift](https://github.com/ReSwift/ReSwift/commits?author=tkersey), [Homebrew](https://github.com/Homebrew/homebrew-core/commits?author=tkersey), and the [`isbn` RubyGem](https://rubygems.org/gems/isbn/versions/1.4.1).
