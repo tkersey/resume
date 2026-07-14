@@ -10,7 +10,7 @@ Principal engineer and engineering leader specializing in production agentic sys
 
 ## Core Expertise
 
-- **Agentic engineering:** LLM application architecture, retrieval-augmented generation, coding-agent workflows, prompt optimization, evaluation frameworks, sandboxed execution, and workflow automation
+- **Agentic engineering:** LLM application architecture, retrieval-augmented generation, prompt optimization, AI evaluation and quality improvement, and workflow automation
 - **Systems thinking:** System design, software architecture, integration boundaries, functional programming, structured concurrency, type-driven design, and performance optimization
 - **Leadership and delivery:** Technical strategy, client discovery, product discovery, team leadership, mentoring, cross-functional collaboration, and prototype-to-production delivery
 - **Technologies:** Python, JavaScript/TypeScript, Node.js, Java, React, Spring, Docker, Swift, SwiftUI, Combine, and RxSwift
