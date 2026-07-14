@@ -26,7 +26,7 @@ Lead consultants and client engagements from discovery and architecture through 
 
 - **eBay:**
   - Led a large engineering team building a reusable agent-authoring platform for customer-facing and internal service workflows.
-  - Designed the platform for phased expansion from an initial set of high-priority service intents to a broad portfolio of use cases.
+  - The platform supports phased expansion from an initial set of high-priority service intents to a broad portfolio of use cases.
   - Authored agents execute within a managed agentic harness runtime and are evaluated offline and online through a dedicated evaluation service.
 - **Trust & Will:**
   - Architected a retrieval-augmented assistant system for estate-planning workflow automation.
