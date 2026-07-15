@@ -1,80 +1,113 @@
-### Tim Kersey
-##### [github.com/tkersey](https://github.com/tkersey)
-##### [linkedin.com/in/timkersey](https://www.linkedin.com/in/timkersey)
+# Tim Kersey
 
-##### Skills
-Swift, SwiftUI, Structured Concurrency, Functional Programming, Team Leadership, iOS/tvOS/visionOS Development
-#### [Artium](https://artium.ai) —  June 2021 to present (Director of Engineering/Principal Software Engineer)
-> Leader of consultants and engagements guiding clients and their products to the marketplace with efficiency and quality
-* [Trust & Will](https://trustandwill.com)
-  * Architected AI assistant system with retrieval-augmented generation for estate planning workflow automation
-  * Led engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints
-* [Red Bull Batalla](https://www.redbullbatalla.com)
-  * Built prompt optimization framework for AI-powered rap lyric generation with measurable quality improvements
-* [Red Bull TV](https://www.redbull.com/us-en/discover)
-  * Led engineering team to deliver Apple Vision Pro launch app with pre-release hardware access
-  * Architected modular streaming platform enabling rapid deployment of multiple product variants
-  * Established patterns for strict concurrency and type safety across entire Swift codebase
-  * Mentored organization on advanced Swift and SwiftUI techniques for production applications
-* [MoveHQ](https://www.movehq.com)
-  * Led iOS engineering team in modernizing legacy Objective-C codebase to SwiftUI with full adoption of Structured Concurrency
-  * Managed technical product requirements where mobile app integration required deep understanding of broader system architecture
-  * Delivered critical mobile component within multi-year enterprise transformation initiative
-* [Grailed](https://www.grailed.com)
-  * Led cross-functional team through iterative product discovery for iOS marketplace app focused on premium men's fashion
-  * Established rapid feedback loops with customers to validate feature requirements and refine product direction
-  * Architected performance optimizations for functional programming architectures while maintaining code maintainability
-#### [Carbon Five](https://www.carbonfive.com) — February 2018 to June 2021 (Senior Software Developer)
->Working as both individual contributor and technical lead as needed when consulting on client projects.
-* [FNBO](https://www.fnbo.com)
-  * Led adoption of protocol-oriented programming and reactive patterns to scale iOS banking app for growth
-* [Sesh](https://www.linkedin.com/company/seshgroups/about/)
-  * Delivered HIPAA-compliant iOS and Android apps for remote group therapy using SaaS integrations within 8-week deadline
-* [Covalto](https://covalto.com)
-  * Led team to recognize the opportunity to build iOS and Android apps using SwiftUI/Combine and implemented using pre-release version of The Composable Architecture
-* [Babylon Health](https://www.babylonhealth.com/en-us)
-  * Co-led team of 12+ engineers to launch US market entry with HIPAA compliance, EHR integration, and localization across microservices and iOS platforms
-* [Swell](https://www.swellinvesting.com)
-  * Implemented declarative UI patterns using functional reactive programming with RxSwift for socially responsible investing iOS app
-#### [Skurt](https://skurt.com) — May 2017 to January 2018 (Senior Software Engineer)
->iOS development lead building an app to deliver rental cars to customers
-* Led transition to TDD with incremental feature delivery, achieving full test coverage on new features
-* Executed product transition from reservations to on-demand rentals
-* Improved build times by 300% while reducing app size by 30% through dependency optimization
+**Principal Agentic Systems Engineer · Engineering Leader**
 
-#### [Pivotal Labs](https://pivotal.io/labs) — November 2015 to May 2017 (Senior Software Engineer)
->Worked in collaboration with designers, product managers and developers to guide client team members to working in a Lean/Extreme Programming style
-* Built tvOS streaming app with machine learning recommendations for video discovery
-* Delivered broadcast-to-streaming pipeline management system for ABC using React/Java/Spring
-* Redesigned meal subscription workflow for FreshRealm reducing checkout abandonment by 40%
-* Launched Fair's iOS app for automated car financing with real-time loan approvals
-* Modernized AAA SoCal's iOS app with roadside assistance and membership features
+[github.com/tkersey](https://github.com/tkersey) · [linkedin.com/in/timkersey](https://www.linkedin.com/in/timkersey)
 
-#### [ThinkALike](https://appsto.re/us/8pTN8.i) — April 2015 to October 2015 (Senior Software Engineer)
->iOS based social network designed to discover unknown connections between users
-* Architected photo-sharing social network with real-time matching algorithm to surface unknown connections
-#### Freelance — October 2013 to March 2015
->Worked with pre-funded startups to build minimally viable products under condensed timelines
-* Built iOS keyboard extension with location sharing using CoreLocation and MapKit integration
-* Developed music discovery app aggregating artist content from multiple social APIs
-#### [Gray's College Enterprises](https://graysbooks.com) — March 2005 to October 2013 (Developer)
->Gray's owned and operated eight off-campus retail stores catering to the college market and ran a wholesale division that distributed textbooks for retail and direct to customers
-* Designed and developed an iOS app customized for the purchase of textbooks directly from students while at a remote location
-* Developed Amazon arbitrage tool for textbook pricing optimization
-* Automated campus textbook requirement scraping from university websites
-* Designed and led development of a custom textbook inventory management system
-##### Interesting ephemera
-* ###### Some open source contributions
-    * [ReSwift](https://github.com/ReSwift/ReSwift/commits?author=tkersey)
-    * [Homebrew](https://github.com/Homebrew/homebrew-core/commits?author=tkersey)
-    * [`isbn` Rubygem](https://rubygems.org/gems/isbn/versions/1.4.1)
-* ###### Early adopter
-    * [GitHub since February 2008 (User #217)](https://github.com/tkersey)
-    * [Reddit 🎂 Day: Oct 19, 2005](https://www.reddit.com/user/entangledstate)
-    * [Hacker news since February 19, 2007](https://www.reddit.com/user/entangledstate)
-    * [Instagram since October 2010 (User #3773)](http://instagram.com/entangledstate)
-    * [Twitter since July 2006 (User #1,676)](https://twitter.com/timkersey)
-    * [Foursquare since March 2009 (User #1832)](https://foursquare.com/timkersey)
-* ###### Published articles
-    * [5 iOS Frameworks: Experts Suggest Which Ones to Master](https://insights.dice.com/2021/03/29/5-ios-frameworks-experts-suggest-which-ones-to-master)
+## Profile
 
+Principal engineer and engineering leader specializing in production agentic systems, AI-enabled workflows, and complex software delivery. Leads teams and clients from ambiguous problem discovery through architecture, rapid prototyping, evaluation, and production deployment. Recent work includes leading a large engineering team building an agent-authoring platform for eBay customer and internal service workflows, supported by a managed agent runtime and offline and online evaluation. Since March 2025, has practiced agent-first software development—first with Claude Code and now with Codex—using coding agents for nearly all day-to-day implementation while retaining ownership of architecture, validation, review, and production quality. Codifies this practice through an extensive public library of Codex skills, agent definitions, repository instructions, and workflow configuration, with many skills backed by purpose-built Zig-based CLIs. Deep systems background across marketplaces, regulated healthcare and financial services, media, and enterprise transformation.
+
+## Core Expertise
+
+- **Agent-first development:** Coding-agent orchestration with Claude Code and Codex; extensive Codex skill authoring, often backed by purpose-built Zig-based CLIs; reusable agent instructions and workflows spanning planning, implementation, refactoring, testing, review, validation, and engineering feedback loops
+- **Agentic engineering:** Agent-authoring platforms, managed agent runtimes, offline and online evaluation, LLM application architecture, retrieval-augmented generation, prompt optimization, and workflow automation
+- **Systems thinking:** System design, software architecture, integration boundaries, functional programming, structured concurrency, type-driven design, and performance optimization
+- **Leadership and delivery:** Technical strategy, client discovery, product discovery, team leadership, mentoring, cross-functional collaboration, and prototype-to-production delivery
+- **Technologies:** Python, JavaScript/TypeScript, Node.js, Java, React, Spring, Docker, Zig, Swift, SwiftUI, Combine, and RxSwift
+
+## Experience
+
+### [Artium](https://artium.ai) — Director of Engineering / Principal Software Engineer
+**June 2021–Present**
+
+Lead consultants and client engagements from discovery and architecture through production delivery. Operate as a principal engineer, technical leader, and client partner across applied AI, marketplaces, media, and enterprise transformation, while turning successful delivery patterns into reusable engineering practices.
+
+#### Agentic engineering engagements
+
+- **eBay:**
+  - Led a large engineering team building a reusable agent-authoring platform for customer-facing and internal service workflows.
+  - The platform supports phased expansion from an initial set of high-priority service intents to a broad portfolio of use cases.
+  - Authored agents execute within a managed agentic harness runtime and are evaluated offline and online through a dedicated evaluation service.
+- **Trust & Will:**
+  - Architected a retrieval-augmented assistant system for estate-planning workflow automation.
+  - Led an engineering team through rapid prototyping and deployment of agentic assistants under tight delivery constraints.
+- **Red Bull Batalla:**
+  - Built a prompt-optimization framework for AI-powered rap lyric generation.
+  - Used measured output quality to iteratively improve prompts and generated results.
+
+#### Additional selected client work
+
+- **Red Bull TV:** Led the engineering team delivering an Apple Vision Pro launch application and architected a modular streaming platform that enabled rapid deployment of multiple product variants. Established strict concurrency and type-safety patterns and mentored client engineers.
+
+#### Additional systems and product leadership
+
+- Led modernization of a legacy product architecture within a multi-year enterprise transformation, coordinating technical requirements and dependencies across product and backend systems.
+- Led cross-functional product discovery for a premium marketplace, established rapid customer feedback loops, and optimized a functional architecture without sacrificing maintainability.
+
+### [Carbon Five](https://www.carbonfive.com) — Senior Software Developer
+**February 2018–June 2021**
+
+Served as both hands-on senior engineer and technical lead across healthcare, fintech, banking, and SaaS client engagements. Guided architecture decisions, product validation, delivery practices, and client-team capability building.
+
+#### Selected client engagements
+
+- **FNBO:** Led adoption of protocol-oriented and reactive architecture patterns to scale a digital banking product for growth.
+- **Babylon Health:** Co-led a team of 12+ engineers through the US launch of a healthcare platform spanning HIPAA compliance, EHR integration, localization, microservices, and client applications.
+
+#### Additional systems and delivery work
+
+- Delivered a HIPAA-compliant remote group-therapy product across multiple client platforms within an eight-week deadline using SaaS integrations.
+- Led architecture selection and implementation for an early-stage fintech product, balancing delivery speed, platform maturity, and long-term maintainability.
+- Implemented a declarative, reactive architecture for a socially responsible investing product.
+
+### [Skurt](https://skurt.com) — Senior Software Engineer
+**May 2017–January 2018**
+
+Technical lead for an on-demand rental-car delivery product.
+
+- Led the transition to test-driven development and incremental delivery, achieving full test coverage for new features.
+- Executed the product transition from advance reservations to on-demand rentals.
+- Improved build times by 300% while reducing application size by 30% through dependency optimization.
+
+### [Pivotal Labs](https://pivotal.io/labs) — Senior Software Engineer
+**November 2015–May 2017**
+
+Partnered with client designers, product managers, engineers, and stakeholders to deliver production systems while coaching teams in Lean and Extreme Programming practices.
+
+#### Selected client engagement
+
+- **ABC:** Delivered a broadcast-to-streaming pipeline management system using React, Java, and Spring.
+
+#### Additional product and systems work
+
+- Modernized a customer-facing roadside-assistance and membership product.
+- Built a streaming application with machine-learning recommendations for video discovery.
+
+### [ThinkALike](https://appsto.re/us/8pTN8.i) — Senior Software Engineer
+**April 2015–October 2015**
+
+- Architected a photo-sharing social network with a real-time matching algorithm designed to surface previously unknown connections between users.
+
+### Freelance — Software Engineer
+**October 2013–March 2015**
+
+- Worked with pre-funded startups to turn ambiguous concepts into minimally viable products under compressed timelines.
+- Built location-sharing and music-discovery products integrating mapping, location, and multiple social APIs.
+
+### [Gray's College Enterprises](https://graysbooks.com) — Developer
+**March 2005–October 2013**
+
+Designed systems supporting eight off-campus retail stores and a wholesale textbook-distribution business.
+
+- Designed and led development of a custom textbook inventory-management system.
+- Built an Amazon marketplace arbitrage tool for pricing optimization.
+- Automated ingestion of campus textbook requirements from university websites.
+- Developed a remote purchasing workflow for acquiring textbooks directly from students.
+
+## Selected Open Source
+
+- [`boundary`](https://github.com/tkersey/boundary) — A Zig library for explicit local effect programs.
+- [Codex skills, agents, and workflow configuration](https://github.com/tkersey/dotfiles/tree/main/codex) — An extensive public library of reusable Codex skills—many backed by purpose-built Zig-based CLIs—plus agent definitions, repository instructions, and workflow configuration for an agent-first engineering practice.
+- [`skills-zig`](https://github.com/tkersey/skills-zig) — A Zig CLI monorepo supplying tooling used by Codex skills for session and memory mining, performance analysis, review workflows, durable ledgers, and automation.
+- Contributions to [ReSwift](https://github.com/ReSwift/ReSwift/commits?author=tkersey), [Homebrew](https://github.com/Homebrew/homebrew-core/commits?author=tkersey), and the [`isbn` RubyGem](https://rubygems.org/gems/isbn/versions/1.4.1).
